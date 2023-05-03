@@ -18,7 +18,7 @@
 
 ### :red_circle: О себе : Я бекэнд разработчик из России <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- :telescope: Я работаю инженером-программистом и участвую в создании программного обеспечения для предприятия.
+- :telescope: В настоящее время я работаю инженером-программистом и участвую в создании программного обеспечения для предприятия.
 
 - :zap: В свободное время изучаю архитектуру программного обеспечения и прохожу видеокурсы.
 
@@ -56,7 +56,6 @@
 ---
 
 ### :fire: Моя статистика :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shipastic&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shipastic&theme=dark&hide_border=true&locale=ru&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
