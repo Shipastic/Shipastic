@@ -23,9 +23,15 @@
 - :zap: В свободное время изучаю архитектуру программного обеспечения и прохожу видеокурсы.
 
 - :mailbox:Связаться со мной: 
-    - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B4%D0%B5%D0%BD%D0%B8%D1%81-%D1%88%D0%B8%D0%BF%D0%B5%D0%BB%D0%BE%D0%B2-35254a18a)
-    - :e-mail: <a href="denkul87@gmail.com">denkul87@gmail.com</a>
-
+ <div id="badges">  
+   <a href="denkul87@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=email&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   <a href="https://t.me/DenShipelov">
+    <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+ </div>
+   
 ---
 
 ### :hammer_and_wrench: Языки и Фреймворки, с которыми есть опыт работы :
