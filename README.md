@@ -25,10 +25,10 @@
 - :mailbox:Связаться со мной: 
  <div id="badges">  
    <a href="denkul87@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=email&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
    </a>
    <a href="https://t.me/DenShipelov">
-    <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
    </a>
  </div>
    
