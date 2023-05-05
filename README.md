@@ -59,7 +59,11 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shipastic&theme=dark&hide_border=true&locale=ru&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shipastic)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shipastic)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shipastic&theme=solarized_dark)
 <!--
 **Shipastic/Shipastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
