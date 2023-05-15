@@ -64,6 +64,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shipastic)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shipastic&theme=solarized_dark)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Shipastic&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 **Shipastic/Shipastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
