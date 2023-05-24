@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LEe5yo2E9Fi3FmuEPK/giphy.gif" width="100"/>
   <div id="badges">  
-  <a href="https://www.linkedin.com/in/%D0%B4%D0%B5%D0%BD%D0%B8%D1%81-%D1%88%D0%B8%D0%BF%D0%B5%D0%BB%D0%BE%D0%B2-35254a18a/">
+  <a href="https://www.linkedin.com/in/shipelovdenis-35254a18a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://nn.hh.ru/resume/2b556b2dff0bf199950039ed1f535744546f48">
