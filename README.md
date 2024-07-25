@@ -66,6 +66,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shipastic&theme=solarized_dark)
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Shipastic&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![](https://leetcard.jacoblin.cool/Shipastic?theme=dark,unicorn)
 <!--
 **Shipastic/Shipastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
